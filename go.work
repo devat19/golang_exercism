@@ -19,6 +19,7 @@ use (
 	./hamming
 	./hello-world
 	./interest-is-interesting
+	./isogram
 	./lasagna
 	./lasagna-master
 	./logs-logs-logs
