@@ -16,6 +16,7 @@ use (
 	./elons-toys
 	./expenses
 	./gross-store
+	./hamming
 	./hello-world
 	./interest-is-interesting
 	./lasagna
@@ -25,6 +26,7 @@ use (
 	./need-for-speed
 	./parsing-log-files
 	./party-robot
+	./scrabble-score
 	./sorting-room
 	./the-farm
 	./vehicle-purchase
